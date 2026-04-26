@@ -1,0 +1,9 @@
+node_modules
+dist
+.codex
+*.tsbuildinfo
+tmp-*.png
+tmp-*.jpg
+tmp-*.jpeg
+tmp-*.webp
+*.log
